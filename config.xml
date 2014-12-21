@@ -2,10 +2,14 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.ufu.ru"
-        versionCode="11" 
-        version   = "1.0.1">
+        versionCode="12" 
+        version   = "1.0.2">
+		
 
     <!-- versionCode is optional and Android only -->
+	
+	 <access origin="http://nutec.ufu.br/adilmar/anuncios/teste.html" browserOnly="true" />
+	 <access origin="http://nutec.ufu.br/adilmar/anuncios/" browserOnly="true" />
 
     <name>RU-UFU</name>
 
