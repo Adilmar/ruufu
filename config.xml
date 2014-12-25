@@ -2,8 +2,8 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.ufu.ru"
-        versionCode="12" 
-        version   = "1.0.2">
+        versionCode="13" 
+        version   = "1.0.3">
 		
 
     <!-- versionCode is optional and Android only -->
@@ -20,6 +20,7 @@
     </author>
 	
 	<preference name="stay-in-webview" value="true" /> 
+	
 	
 	
 	 <!-- Core plugins -->
